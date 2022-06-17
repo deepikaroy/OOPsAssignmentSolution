@@ -1,5 +1,4 @@
 package com.assessment.business;
-
 public class SuperDepartment 
 {
 	public String departmentName() 
